@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://createbot2026.github.io/pdf-tools/sitemap.xml
